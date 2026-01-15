@@ -135,6 +135,9 @@
   <data name="ModsList" xml:space="preserve">
     <value>模组列表</value>
   </data>
+  <data name="RulesList" xml:space="preserve">
+    <value>Project Rules</value>
+  </data>
   <data name="Website" xml:space="preserve">
     <value>我们的网站</value>
   </data>

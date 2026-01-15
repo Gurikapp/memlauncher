@@ -413,6 +413,12 @@ namespace Gml.Launcher.Assets.Resources {
             }
         }
 
+                public static string RulesList {
+            get {
+                return ResourceManager.GetString("RulesList", resourceCulture);
+            }
+        }
+
         /// <summary>
         ///   Ищет локализованную строку, похожую на On this page, you can view the list of modifications and select the ones you are interested in. You can dynamically enable or disable them at any time..
         /// </summary>
